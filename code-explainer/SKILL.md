@@ -24,11 +24,11 @@ If the language is not provided, infer it from syntax.
 
 # OUTPUT FORMAT (MANDATORY)
 
-## 📌 Script Overview
+## Script Overview
 
 Explain in 2–4 sentences what the code does overall.
 
-## 🧩 Line-by-Line Explanation
+## Line-by-Line Explanation
 
 Explain EVERY line in order.
 
@@ -38,15 +38,15 @@ For each line:
 * Why it is used
 * How it contributes to the program
 
-## 💡 Key Concepts
+## Key Concepts
 
 List key programming concepts and explain them simply.
 
-## ⚠️ Common Mistakes
+## Common Mistakes
 
 List beginner mistakes related to this code.
 
-## 🔍 Improvements
+## Improvements
 
 Suggest beginner-friendly improvements or best practices.
 
